@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.myapplication">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar">
+
+        <activity android:name=".showorder"></activity>
+        <activity android:name=".options" />
+        <activity android:name=".adminview" />
+        <activity android:name=".admin" />
+        <activity android:name=".helppage" />
+        <activity android:name=".finalpage" />
+        <activity
+            android:name=".ViewCart"
+            android:requestLegacyExternalStorage="true" />
+        <activity android:name=".SplashScreen">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".screenseat" />
+        <activity android:name=".icecreamcategory" />
+        <activity android:name=".popcorncategory" />
+        <activity android:name=".colddrinkcategory" />
+        <activity android:name=".frenchfriescategory" />
+        <activity android:name=".burgercategory" />
+        <activity android:name=".pizzacategory" />
+        <activity android:name=".FirstPage" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

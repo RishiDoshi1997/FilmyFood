@@ -1,0 +1,188 @@
+<resources>
+    <string name="app_name" translatable="false">My Application</string>
+    <string-array name="screen">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+    </string-array>
+
+    <string-array name="row">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+    </string-array>
+
+    <string-array name="seat">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+    </string-array>
+
+    <string-array name="pizza">
+        <item>Tomato and Cheese</item>
+        <item>Four Cheese</item>
+        <item>Veggie Delight</item>
+        <item>Farm House</item>
+    </string-array>
+
+    <string-array name="pizzasize">
+        <item>Small - 8.00$</item>
+        <item>Medium - 10.00$</item>
+        <item>Large - 12.00$</item>
+
+    </string-array>
+
+    <string-array name="pizzaquantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+
+    <string-array name="icecream">
+        <item>Chocolate</item>
+        <item>Vanilla</item>
+        <item>Strawberry</item>
+
+    </string-array>
+
+    <string-array name="icecreamsize">
+        <item>Small - 5.00$</item>
+        <item>Medium - 7.00$</item>
+        <item>Large - 9.00$</item>
+
+    </string-array>
+
+    <string-array name="icecreamquantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+
+
+    <string-array name="frenchfries">
+        <item>Salted</item>
+        <item>Cheese</item>
+        <item>Saucy</item>
+
+    </string-array>
+
+    <string-array name="frenchfriessize">
+        <item>Small - 7.00$</item>
+        <item>Medium - 9.00$</item>
+        <item>Large - 11.00$</item>
+
+    </string-array>
+
+    <string-array name="frenchfriesquantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+
+    <string-array name="colddrink">
+        <item>Pepsi</item>
+        <item>Coke</item>
+        <item>GingerAle</item>
+        <item>Fanta</item>
+        <item>Dew</item>
+    </string-array>
+
+    <string-array name="colddrinksize">
+        <item>Small - 2.50$</item>
+        <item>Medium - 5.50$</item>
+        <item>Large - 7.500$</item>
+
+    </string-array>
+
+    <string-array name="colddrinkquantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+
+    <string-array name="burger">
+        <item>Ham</item>
+        <item>Chicken</item>
+        <item>Cheese</item>
+        <item>Veg</item>
+
+    </string-array>
+
+    <string-array name="burgersize">
+
+        <item>Medium - 10.00$</item>
+        <item>Large - 12.00$</item>
+
+    </string-array>
+
+    <string-array name="burgerquantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+
+    <string-array name="popcorn">
+        <item>Cheese</item>
+        <item>Salty</item>
+        <item>Plain</item>
+
+
+    </string-array>
+
+    <string-array name="popcornsize">
+
+        <item>Small - 7.00$</item>
+        <item>Medium - 9.00$</item>
+        <item>Large - 11.00$</item>
+
+    </string-array>
+
+    <string-array name="popcornquantity">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+
+    </string-array>
+    <string name="title_activity_orderplaced">orderplaced</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_lastpage">lastpage</string>
+</resources>
+

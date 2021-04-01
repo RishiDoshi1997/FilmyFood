@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">257711652937-9cer2r72a6ggiadrj3mifar6j7a0rg21.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">257711652937</string>
+    <string name="google_api_key" translatable="false">AIzaSyDRXMHOEEsDph9OyrfF_NyV_0PSC4zcy6U</string>
+    <string name="google_app_id" translatable="false">1:257711652937:android:66bacd7288cae2eeb83f98</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDRXMHOEEsDph9OyrfF_NyV_0PSC4zcy6U</string>
+    <string name="google_storage_bucket" translatable="false">filmyfood-f2840.appspot.com</string>
+    <string name="project_id" translatable="false">filmyfood-f2840</string>
+</resources>
